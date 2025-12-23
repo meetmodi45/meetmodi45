@@ -33,7 +33,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meetmodi45&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetmodi45&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=meetmodi45&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=meetmodi45&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square)
